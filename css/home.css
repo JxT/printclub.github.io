@@ -1,0 +1,202 @@
+
+
+
+/* Header - main */
+header .main {
+	width: 100%;
+	height: 542px;
+	margin: 48px auto 0;
+	background: url(../img/home/header.png);
+	background-size: cover;
+}
+
+header .main h1 {
+	font-size: 32px;
+	font-weight: 600;
+	padding-top: 200px;
+	padding-bottom: 5px;
+}
+
+header .main h2 {
+	font-size: 28px;
+	font-weight: 300;
+	line-height: 34px;
+	margin-bottom: 50px;
+}
+
+header .main .button {
+	background-color: #F6A623;
+	border-color: #BE7600;
+}
+
+
+/* Header - key points */
+header .keyPoints {
+	width: 100%;
+	height: 97px;
+	margin: 0 auto;
+	background: url(../img/home/headerBlur.png);
+	background-size: cover;
+}
+
+header .keyPoints .point {
+	width: 24%;
+	display: inline-block;
+}
+
+header .keyPoints .point img {
+	display: inline-block;
+	padding: 20px 5px 0 0;
+}
+
+header .keyPoints .point p {
+	width: 127px;
+	font-weight: 600;
+	color: rgb(255,255,255);
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 30px;
+}
+
+
+/* Services intro */
+
+section.serviceIntro {
+	text-align: center;
+	padding: 70px 0;
+}
+
+section.serviceIntro h1 {
+	font-size: 32px;
+}
+
+section.serviceIntro h2 {
+	font-size: 24px;
+	font-weight: 200;
+	font-style: italic;
+	padding-top: 10px;
+}
+
+section.serviceIntro .serviceCards {
+	background: rgb(255,255,255);
+	width: 100%;
+	border-radius: 6px;
+	box-shadow: 0 4px 20px 0 rgba(0,0,0,0.07);
+	margin-top: 40px;
+}
+
+section.serviceIntro a.card {
+	width: 24%;
+	display: inline-block;
+	border-right: 2px solid rgb(236,236,236);
+	padding: 40px 0;
+}
+
+section.serviceIntro a.card:last-of-type {
+	border: none;
+}
+
+section.serviceIntro a.card img {
+	width: 119px;
+	height: 119px;
+	display: inline-block;
+}
+
+section.serviceIntro a.card h1{
+	width: 195px;
+	font-size: 24px;
+	font-weight: 600;
+	color: rgb(155,155,155);
+	display: inline-block;
+	padding: 20px 0 10px;
+}
+
+section.serviceIntro a.card p{
+	width: 195px;
+	font-size: 18px;
+	font-weight: 300;
+	color: rgb(155,155,155);
+	display: inline-block;
+}
+
+
+/* Quote */
+section.quote {
+	background: #4990E2;
+}
+
+section.quote .quoteCard {
+	height: 235px;
+	border-radius: 6px;
+	background: rgb(255,255,255);
+	margin: 40px 0;
+	display: inline-block;
+	overflow: hidden;
+}
+
+section.quote .quoteCard .text {
+	width: 50%;
+	display: inline-block;
+	padding: 35px;
+}
+
+section.quote .quoteCard .text h1 {
+	font-family: 'Calendas Plus', serif;
+	font-size: 30px;
+	font-style: italic;
+	font-weight: 300;
+	line-height: 42px;
+	padding-bottom: 20px;
+}
+
+section.quote .quoteCard .text h2 {
+	float: right;
+	display: inline-block;
+	font-size: 20px;
+	font-weight: 300;
+	padding-right: 5px;
+}
+
+section.quote .quoteCard .text h3 {
+	float: right;
+	font-size: 20px;
+	font-weight: 600;
+}
+
+section.quote .quoteCard .image {
+	background: #D8D8D8;
+	width: 40%;
+	height: 100%;
+	float: right;
+}
+
+
+/* Register interest */
+section.registerInterest {
+	text-align: center;
+	padding: 50px 0;
+}
+
+section.registerInterest h1 {
+	font-size: ;
+}
+
+
+/* Footer */
+footer {
+	background: rgb(230,230,230);
+	padding: 30px 0;
+}
+
+footer img {
+	margin-bottom: 100px;
+}
+
+footer p {
+	font-size: 13px;
+	font-weight: 300;
+}
+
+
+
+
