@@ -178,7 +178,16 @@ section.registerInterest {
 }
 
 section.registerInterest h1 {
-	font-size: ;
+	font-size: 30px;
+	color: #F6A623;
+}
+
+section.registerInterest h2 {
+	font-size: 24px;
+	font-weight: 200;
+	font-style: italic;
+	color: #9B9B9B;
+	padding-top: 5px;
 }
 
 
