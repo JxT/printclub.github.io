@@ -1,3 +1,32 @@
+
+/* Fonts */
+@font-face {
+  font-family: 'Maison Neue';
+  src: url('fonts/MaisonNeueBold.ttf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Maison Neue';
+  src: url('fonts/MaisonNeueBoldItalic.ttf');
+  font-weight: 500;
+  font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Maison Neue';
+  src: url('fonts/MaisonNeueBook.ttf');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('fonts/MaisonNeueBookItalic.ttf');
+  font-weight: 300;
+  font-style: italic;
+}
+
 /* Global */
 h1, h2, h3, h4, h5, h6, p, a, span { margin: 0; } /* Fix Normalize.css text */
 
@@ -39,7 +68,7 @@ nav .links {
 nav .links a {
 	text-decoration: none;
 	font-size: 16px;
-	font-weight: 600;
+	font-weight: 500;
 	color: #9B9B9B;
 	margin-left: 15px;
 	margin-top: 7px;
@@ -56,7 +85,7 @@ nav .links a:hover {
 /* Buttons */
 .button {
 	font-size: 20px;
-	font-weight: 600;
+	font-weight: 500;
 	padding: 7px 20px;
 	border-radius: 2px;
 	border-bottom: 2px solid;

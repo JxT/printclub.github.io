@@ -12,7 +12,7 @@ header .main {
 
 header .main h1 {
 	font-size: 32px;
-	font-weight: 600;
+	font-weight: 500;
 	padding-top: 200px;
 	padding-bottom: 5px;
 }
@@ -51,7 +51,7 @@ header .keyPoints .point img {
 
 header .keyPoints .point p {
 	width: 127px;
-	font-weight: 600;
+	font-weight: 500;
 	color: rgb(255,255,255);
 	display: inline-block;
 	vertical-align: top;
@@ -72,7 +72,7 @@ section.serviceIntro h1 {
 
 section.serviceIntro h2 {
 	font-size: 24px;
-	font-weight: 200;
+	font-weight: 300;
 	font-style: italic;
 	padding-top: 10px;
 }
@@ -105,7 +105,7 @@ section.serviceIntro a.card img {
 section.serviceIntro a.card h1{
 	width: 195px;
 	font-size: 24px;
-	font-weight: 600;
+	font-weight: 500;
 	color: rgb(155,155,155);
 	display: inline-block;
 	padding: 20px 0 10px;
@@ -160,7 +160,7 @@ section.quote .quoteCard .text h2 {
 section.quote .quoteCard .text h3 {
 	float: right;
 	font-size: 20px;
-	font-weight: 600;
+	font-weight: 500;
 }
 
 section.quote .quoteCard .image {
@@ -184,7 +184,7 @@ section.registerInterest h1 {
 
 section.registerInterest h2 {
 	font-size: 24px;
-	font-weight: 200;
+	font-weight: 300;
 	font-style: italic;
 	color: #9B9B9B;
 	padding-top: 5px;
