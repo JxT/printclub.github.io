@@ -13,12 +13,19 @@
   font-style: italic;
 }
 
-
 @font-face {
   font-family: 'Maison Neue';
   src: url('fonts/MaisonNeueBook.ttf');
   font-weight: 300;
 }
+
+@font-face {
+  font-family: 'Maison Neue';
+  src: url('fonts/MaisonNeueBookItalic.ttf');
+  font-weight: 300;
+  font-style: italic;
+}
+
 
 @font-face {
   font-family: 'Calendas Plus';
