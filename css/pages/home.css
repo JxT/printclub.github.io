@@ -1,0 +1,173 @@
+/* Homepage styling */
+/* Print Club 30.co.uk */
+
+
+/* Welcome section */
+
+section.welcome {
+	background-image: url('../../img/patternTile.svg');
+	background-repeat: repeat;
+	height: 540px;
+	overflow: hidden;
+}
+
+section.welcome .text {
+	float: left;
+	padding-top: 175px;
+}
+
+section.welcome .text h1 {
+	font-size: 35px;
+	color: rgb(155,155,155);
+	font-weight: 300;
+}
+
+section.welcome .text h2 {
+	font-size: 70px;
+	font-weight: 500;
+	padding-top: 10px;
+}
+
+section.welcome .text a {
+	padding-top: 25px;
+	display: inline-block;
+}
+
+section.welcome .imagery {
+	float: right;
+}
+
+section.welcome .imagery img {
+	width: 730px;
+	margin-top: 70px;
+	margin-right: -350px;
+}
+
+
+/* White box sections */
+
+section.whiteBox {
+	background: rgb(255,255,255);
+	box-shadow: 0 0 234px rgba(0,0,0,0.1);
+	width: 100%;
+	display: block;
+	box-sizing: border-box;
+}
+
+/* White box: Intro */
+
+section.whiteBox#intro {
+	padding: 80px 50px;
+	margin-top: 80px;
+	margin-bottom: 15px;
+}
+
+section.whiteBox#intro h1 {
+	font-size: 65px;
+	font-weight: 500;
+	line-height: 75px;
+}
+
+section.whiteBox#intro .greyBar {
+	width: 280px;
+	height: 12px;
+	margin-top: 20px;
+	display: block;
+	background: rgb(155,155,155);
+}
+
+
+/* White box: Getting ready */
+
+section.whiteBox#gettingReady {
+	padding: 100px 0;
+	text-align: center;
+	color: rgb(155,155,155);
+	line-height: 52px;
+	margin-bottom: 15px;
+}
+
+section.whiteBox#gettingReady h1 {
+	font-weight: 300;
+	font-size: 35px;
+}
+
+section.whiteBox#gettingReady h2 {
+	font-weight: 300;
+	font-style: italic;
+	font-size: 35px;
+}
+
+section.whiteBox#gettingReady h3 {
+	font-weight: 500;
+	font-size: 35px;
+}
+
+
+/* White box: Getting ready */
+
+section.whiteBox#contactDetails {
+	padding: 55px 50px;
+}
+
+section.whiteBox#contactDetails .left {
+	float: left;
+}
+
+section.whiteBox#contactDetails .right {
+	display: inline-block;
+	padding-left: 40px;
+}
+
+section.whiteBox#contactDetails h1 {
+	width: 395px;
+	font-size: 35px;
+	font-weight: 500;
+	line-height: 40px;
+	padding-bottom: 10px;
+}
+
+section.whiteBox#contactDetails h2 {
+	font-size: 28px;
+	font-weight: 300;
+	color: rgb(155,155,155);
+	padding-top: 30px;
+}
+
+section.whiteBox#contactDetails h3 {
+	font-size: 35px;
+	font-weight: 300;
+	color: rgb(155,155,155);
+	padding-top: 28px;
+	line-height: 30px;
+}
+
+section.whiteBox#contactDetails .right a h3 {
+	text-decoration: none;
+	display: inline-block;
+	color: #2986EC;
+	border-bottom: 2px solid #2986EC;
+}
+
+section.whiteBox#contactDetails .right a:hover h3{
+	opacity: 0.75;
+}
+
+section.whiteBox#contactDetails .right a:active h3{
+	color: rgb(0,0,0);
+	border-color: rgb(0,0,0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
